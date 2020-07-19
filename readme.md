@@ -10,9 +10,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Jazz club
 
-**Web:**   (url github.io)
+**Web:** (Ver info)  https://github.com/alejandromontorofernandez/alejandromontorofernandez.github.io/blob/master/readme.md
 
-**Enlace online:**  alejandromontorofernandez.github.io/2AAlejandroMontoroFernandez16.html 
+**Enlace online:** (ver juego)  alejandromontorofernandez.github.io/2AAlejandroMontoroFernandez16.html 
 
 **Autor:**  Alejandro Montoro Fernández.
 
