@@ -151,8 +151,6 @@ Sarah Vaughan - Misty
 - Photoshop (Lo he usado para muchas imágenes, y principalmente, para quitarles peso y editarlas).
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
-
 https://creativecommons.org/licenses/?lang=es
 
 Mayo 2020
