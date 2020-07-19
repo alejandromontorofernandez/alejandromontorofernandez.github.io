@@ -39,8 +39,6 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Vimeo
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
-
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
@@ -142,7 +140,7 @@ Ella Fitzgerald - Cry me a river
 Sarah Vaughan - Misty
 
 * Imágenes:  
-* Tipografía
+* Tipografía: Google Front (Monoton y Montserrat).
 
 
 **Herramientas utilizadas**
