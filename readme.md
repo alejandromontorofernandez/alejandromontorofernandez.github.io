@@ -12,21 +12,19 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Web:**   (url github.io)
 
+**Enlace online:**  alejandromontorofernandez.github.io/2AAlejandroMontoroFernandez16.html 
+
 **Autor:**  Alejandro Montoro Fernández.
 
 **Resumen** : Este proyecto cuenta datos interesantes del jazz y sus artistas de manera interactiva. El espectador puede establecer contacto con las diferentes piezas del trabajo para aprender del mismo.
 
 **Estilo/género:**  Documental interactivo.
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
-
-(insertar imágenes a resolucion de 100px alto)
-
 **Resolución:** 800x600px tamaño fijo.
 
-**Probado en:**   firefox.
+**Probado en:**   firefox y chrome.
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 140kB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
@@ -139,7 +137,8 @@ Billie Holiday - Strange fruit
 Ella Fitzgerald - Cry me a river
 Sarah Vaughan - Misty
 
-* Imágenes:  
+* Imágenes: https://image.freepik.com/free-vector/jazz-icons-sketch_1284-4362.jpg
+
 * Tipografía: Google Front (Monoton y Montserrat).
 
 
@@ -147,8 +146,10 @@ Sarah Vaughan - Misty
 
 - Hippani Animator 5.1
 - Camtasia Studio (para renderizar vídeos)
+- obs (para hacer capturas).
 - Anime Studio (Al principio fue utilizado para crear secuencias animadas para el trabajo principal, descubriendo que solo se podían reproducir vídeos clickando sobre ellos. Luego, fue utilizado para crear muchos iconos y fondos).
 - Photoshop (Lo he usado para muchas imágenes, y principalmente, para quitarles peso y editarlas).
+-paint tool sai (para dibujar)
 
 
 https://creativecommons.org/licenses/?lang=es
